@@ -65,10 +65,10 @@ The platform supports multiple product types, variations, and attributes, and in
 
 | Name | Role |
 |------|------|
-| [Member 1] | Database Design |
-| [Member 2] | SQL Implementation |
-| [Member 3] | Documentation & Diagrams |
-| [Member 4] | Testing & Collaboration |
+| [Thobeka Jali & Janet Mutisya] | Database Design |
+| [Thembelani Bukali & Margaret Akinyi ] | SQL Implementation |
+| [Thobeka Jali & Janet Mutisya] | Documentation & Diagrams |
+| [Isaac Kahura & Mwangi Faith Wanjiru] | Testing & Collaboration |
 
 ---
 
